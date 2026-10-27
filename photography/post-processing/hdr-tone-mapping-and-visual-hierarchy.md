@@ -324,4 +324,4 @@ RAW 里存在的信息，不代表成片必须展示。
 - 色调曲线的数学与视觉解释；
 - 亮度蒙版；
 - Dodge & Burn；
-- HDR 显示与 SDR tone mapping。
+- [HDR 成像与显示原理：从传感器动态范围到跨设备呈现](hdr-imaging-and-display-fundamentals.md)：补充 HDR 信号标准、色域、显示亮度与跨设备一致性。
