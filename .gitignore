@@ -1,0 +1,11 @@
+# Local editor and platform files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
