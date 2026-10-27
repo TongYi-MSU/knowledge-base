@@ -4,4 +4,4 @@
 
 ## 已归档笔记
 
-暂无正式知识笔记。未来新增后，在这里列出相关链接。
+- [EL 与 TFEL 电致发光显示：原理、寿命与 HP 37900D 案例](electroluminescent-displays-tfel-hp-37900d.md)
