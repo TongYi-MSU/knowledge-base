@@ -148,5 +148,9 @@ Georgia Travel 在介绍伊梅列季核桃茄子时明确提醒，Khmeli Suneli 
 
 ## 相关知识
 
-- [格鲁吉亚饮食文化索引](README.md)
+- [第比利斯菜市场特色种子选购](../../../travel/georgia/tbilisi-market-heirloom-seeds.md)：从可播种材料出发，寻找与蓝葫芦巴和食用万寿菊有关的格鲁吉亚农家种子，须确认来源和活力。
 - [土耳其菜的味觉对冲与风味融合](../turkey/flavor-contrast-vs-integration.md)：讨论两种饮食体验中风味对比与整合的感官分析框架，不把这种比较推广成全菜系结论。
+
+## 导航
+
+- [格鲁吉亚饮食文化索引](README.md)
