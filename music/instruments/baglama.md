@@ -12,6 +12,12 @@ type: knowledge
 
 **Bağlama** 是土耳其传统长颈弹拨乐器家族，也是 [Âşık](../../history-and-culture/traditions/asiklik.md) 弹唱的重要伴奏乐器。想用几十年，重点应在琴的结构、制作工艺、适当养护以及后续维修能力。
 
+## 乐器形制图
+
+![Saz 家族乐器对照：自左至右为 Cura、Çöğür、Bağlama 长颈琴和 Divan Saz](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Cura_cogur_baglama_divan_saz.jpg/960px-Cura_cogur_baglama_divan_saz.jpg)
+
+*摄影：Sven Kraus，2023；[Wikimedia Commons 图片来源与许可](https://commons.wikimedia.org/wiki/File:Cura_cogur_baglama_divan_saz.jpg)（CC BY-SA 4.0）。图示同一家族不同形制，**不表示其中一款必然适合所有初学者**。图片通过外部链接展示，原始照片尚未上传至仓库。*
+
 ## 核心知识
 
 ### 乐器构造与选型

@@ -12,6 +12,12 @@ type: knowledge
 
 **Âşık Veysel Şatıroğlu（1894—1973）** 是土耳其著名的民间诗人与 Saz 演奏者，其作品以朴素意象表达生命、死亡、土地和人情。
 
+## 人物影像
+
+![Âşık Veysel 演奏 Saz 的历史照片](https://upload.wikimedia.org/wikipedia/commons/7/78/A%C5%9F%C4%B1k_Veysel_%C5%9Eat%C4%B1ro%C4%9Flu_-_Ba%C4%9Flama_%C3%87alarken.jpg)
+
+*图片来源：[Wikimedia Commons，Aşık Veysel Şatıroğlu - Bağlama Çalarken](https://commons.wikimedia.org/wiki/File:A%C5%9F%C4%B1k_Veysel_%C5%9Eat%C4%B1ro%C4%9Flu_-_Ba%C4%9Flama_%C3%87alarken.jpg)；元数据称约1936年、摄影者未知。**外链展示，并非本地图片备份。***
+
 ## 核心知识
 
 - **生平**：1894 年生于锡瓦斯省 Şarkışla 的 Sivrialan 村，1973 年 3 月 21 日逝世；童年失明，在父亲鼓励下学习 Saz／Bağlama。

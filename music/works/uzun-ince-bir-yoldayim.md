@@ -25,13 +25,110 @@ type: knowledge
 
 **Özdemir Erdoğan** 的录音发布信息标示 **1993-04-07**，词曲作者标为 Âşık Veysel；网络转录显示该版本选取完整诗歌的第 **1、2、6 节**并重复、增加感叹唱词。它是改编／翻唱，**与常见完整六节文本不完全相同**。不同录音版本可能各有差别。
 
-## 用户提供的原文：归档状态
+## 原诗六节：用户提供版本与中文意译
 
-**完整原文尚未保存，待从用户提供的对话原始文本补录。** 按照 [原始资料保全规范](../../RULES.md#i-原始资料保全与溯源)，待找到用户实际发送的文本版本后再补录，不能使用其他版本冒充原件。目前只保存了以下节选：
+这是一份**用户在本次对话亲自粘贴的土耳其语全文**，并非由外部网站替代、拼接或猜测。逐字转录文件：[用户粘贴原件（TXT）](uzun-ince-bir-yoldayim-user-original.txt)。
 
-> Uzun ince bir yoldayım / Gidiyorum gündüz gece
+**排版说明**：用户粘贴时六个诗节连接处出现 `geceDünyaya`、`geceUykuda` 等粘连。下文仅在这些已知边界恢复诗节换行，**不修改拼写和词序**（如 `yürüyom`、`dakka`、`Düşmüşem`、`Irak`）。中文为之前讨论中所作意译，不是权威译本。
 
-意译：「我走在一条漫长而狭窄的路上，日夜不停前行。」
+### 第 一 节
+
+Uzun ince bir yoldayım  
+Gidiyorum gündüz gece  
+Bilmiyorum ne haldeyim  
+Gidiyorum gündüz gece
+
+**中文意译**
+
+我走在一条漫长而狭窄的路上，  
+日日夜夜，不停地前行。  
+我不知道自己如今身处何种境地，  
+日日夜夜，我仍在前行。
+
+### 第 二 节
+
+Dünyaya geldiğim anda  
+Yürüdüm aynı zamanda  
+İki kapılı bir handa  
+Gidiyorum gündüz gece
+
+**中文意译**
+
+自我降生于世的那一刻，  
+我便同时踏上了旅程。  
+在这座有着两扇门的客栈里，  
+日日夜夜，我不停地前行。
+
+### 第 三 节
+
+Uykuda dahi yürüyom  
+Kalmaya sebep arıyom  
+Gidenleri hep görüyom  
+Gidiyorum gündüz gece
+
+**中文意译**
+
+即使在睡梦之中，我也仍在行走，  
+我寻找着能够停留的理由。  
+却总是看见一个又一个人离去，  
+日日夜夜，我不停地前行。
+
+### 第 四 节
+
+Kırk dokuz yıl bu yollarda  
+Ovada dağda çöllerde  
+Düşmüşem gurbet ellerde  
+Gidiyorum gündüz gece
+
+**中文意译**
+
+四十九年，我走在这漫漫长路上，  
+走过平原，越过群山，穿过荒漠。  
+如今，我漂泊在遥远的异乡，  
+日日夜夜，我不停地前行。
+
+### 第 五 节
+
+Düşünülürse derince  
+Irak görünür görünce  
+Yol bir dakka mıkdarınca  
+Gidiyorum gündüz gece
+
+**中文意译**
+
+倘若静下心来，细细思量，  
+那条路乍看似乎遥不可及。  
+可整段旅程，不过短短一分钟，  
+日日夜夜，我不停地前行。
+
+### 第 六 节
+
+Şaşar Veysel işbu hale  
+Gah ağlaya gahi güle  
+Yetişmek için menzile  
+Gidiyorum gündüz gece
+
+**中文意译**
+
+维伊塞尔啊，也惊叹于这般人生，  
+时而哭泣，时而欢笑。  
+为了抵达那最终的归宿，  
+日日夜夜，我不停地前行。
+
+## 原始资料状态与关联
+
+- **原始诗文**：✅ [已保存用户粘贴的完整文本，包含复制时的诗节粘连](uzun-ince-bir-yoldayim-user-original.txt)。
+- **整理排版诗文**：✅ 本页六节，依照诗句内容恢复换行。
+- **中文逐节译文**：✅ 本页六节，为方便理解的意译。
+- **聊天截图**：本次讨论曾提供 Spotify 歌曲页面截图（Özdemir Erdoğan 演唱版）；目前**未将截图原始 JPG 文件上传到 GitHub**，不能将下列外部资料图片冒充用户截图。
+- **歌词版本**：用户给出的是完整六节诗歌；与 Özdemir Erdoğan 录音的歌词删节应当区别看待。
+- **来源**：本次用户消息原文；与 [RULES.md 原始资料规范](../../RULES.md#i-原始资料保全与溯源) 对应。用户原文取得于 2026-10-27 的本次归档上下文（实际粘贴消息较早）。
+
+## 相关影像
+
+![Âşık Veysel 弹奏 Saz 的历史照片（与本诗作者对应，非唱片封面）](https://upload.wikimedia.org/wikipedia/commons/7/78/A%C5%9F%C4%B1k_Veysel_%C5%9Eat%C4%B1ro%C4%9Flu_-_Ba%C4%9Flama_%C3%87alarken.jpg)
+
+*图片：Âşık Veysel 持琴历史照片（来源元数据称约 1936 年，摄影者未知）；[Wikimedia Commons 原件记录](https://commons.wikimedia.org/wiki/File:A%C5%9F%C4%B1k_Veysel_%C5%9Eat%C4%B1ro%C4%9Flu_-_Ba%C4%9Flama_%C3%87alarken.jpg)。目前通过外部链接显示，**尚未把图片文件本体备份到本仓库**。*
 
 ## 参考资料
 

@@ -12,6 +12,17 @@ type: knowledge
 
 **Şentürk İyidoğan** 是锡瓦斯 Bağlama 制琴师、维修师与民间吟游诗人，诗名包括 **Şentürk／Garip Şentürk**，创立了 Ozanlar Müzesi，并收藏据称属于 Âşık Veysel 的旧琴。
 
+## 工作室与历史乐器影像
+
+![Şentürk İyidoğan 在2018年演奏一把据称属于 Âşık Veysel 的旧 Bağlama](https://www.aa.com.tr/uploads/userFiles/de89f914-66b1-4a0b-9347-13c0eafe70cc/2018%2F03%2Fbag.jpg)
+
+*图片来源：[Anadolu Ajansı，2018 年 3 月相关现场报道](https://www.aa.com.tr/tr/yasam/asik-veyseli-104-yillik-baglamasi-ile-andi/1092976)。图中人物与旧琴的关系以新闻报道为依据，不等于已独立完成文物鉴定。**外链展示，图片原件尚未入库**。*
+
+### 相关视频
+
+- [2018 年 Çiğdem Özer 到访 Ozanlar Müzesi、弹奏旧琴（Dailymotion／DHA 新闻素材）](https://www.dailymotion.com/video/x6fpczl)。
+- [2021 年 TRT：旧琴及收藏采访](https://www.trthaber.com/videolar/asik-veyselin-baglamasina-gozu-gibi-bakiyor-53669.html)。
+
 ## 核心知识
 
 ### 人物经历
