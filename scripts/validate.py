@@ -19,7 +19,7 @@ def issue(path, detail):
     errors.append(f"{path.relative_to(ROOT)}: {detail}")
 
 def check_links(path, data):
-    # Exclude code samples: these are not active links or images.
+    # Ignore fenced blocks and inline code when validating active links and images.
     data = re.sub(r'(?ms)^\x60{3}[^\n]*\n.*?^\x60{3}[ \t]*$', '', data)
     data = re.sub(r'\x60+[^\x60\n]*\x60+', '', data)
     for match in LINK.finditer(data):
