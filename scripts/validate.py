@@ -19,8 +19,8 @@ def issue(path, detail):
     errors.append(f"{path.relative_to(ROOT)}: {detail}")
 
 def check_links(path, data):
-    # Markdown examples inside code fences or inline code are not real links.
-    data = re.sub(r'(?ms)^```[^\n]*\n.*?^```[ \t]*
+    # Exclude code examples: they are not active Markdown links or images.
+    data = re.sub(r'(?ms)^\x60{3}[^\n]*\n.*?^\x60{3}[ \t]*
         target = (match.group(1) or match.group(2)).strip().split(' "', 1)[0]
         if not target or target.startswith(('#', 'https://', 'http://', 'mailto:', 'data:')):
             continue
@@ -128,7 +128,7 @@ def main():
 if __name__ == '__main__':
     sys.exit(main())
 , '', data)
-    data = re.sub(r'`+[^`\n]*`+', '', data)
+    data = re.sub(r'\x60+[^\x60\n]*\x60+', '', data)
     for match in LINK.finditer(data):
         target = (match.group(1) or match.group(2)).strip().split(' "', 1)[0]
         if not target or target.startswith(('#', 'https://', 'http://', 'mailto:', 'data:')):
