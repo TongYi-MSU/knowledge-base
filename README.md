@@ -18,7 +18,7 @@
 | [摄影](photography/README.md) | [后期处理](photography/post-processing/README.md) | 拍摄、HDR、后期、色彩与视觉表达 |
 | [图片识别](image-identification/README.md) | [旅游目的地](image-identification/travel-destinations/README.md)、[产品](image-identification/products/README.md)、[食物](image-identification/food/README.md) | 图片识别结果独立归档 |
 | [旅行](travel/README.md) | 按需建立 | 国家、城市、攻略 |
-| [历史文化](history-and-culture/README.md) | [饮食文化](history-and-culture/cuisine/README.md)、[科学技术史](history-and-culture/history-of-science/README.md)、[人物](history-and-culture/people/README.md)、[文化传统](history-and-culture/traditions/README.md) | 历史、诗人、科技史与各地文化 |
+| [历史文化](history-and-culture/README.md) | [饮食文化](history-and-culture/cuisine/README.md)、[科学技术史](history-and-culture/history-of-science/README.md)、[人物](history-and-culture/people/README.md)、[文化传统](history-and-culture/traditions/README.md)、[政治制度](history-and-culture/political-institutions/README.md) | 历史、政治制度、诗人、科技史与各地文化 |
 | [生活](life/README.md) | 按需建立 | 实用知识 |
 
 ## ✍️ 归档工作流
