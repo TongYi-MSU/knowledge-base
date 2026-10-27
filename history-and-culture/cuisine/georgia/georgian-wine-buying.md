@@ -1,12 +1,12 @@
 ---
-title: 格鲁吉亚葡萄酒：经典 PDO 酒名、酒标与两瓶购买组合
+title: 格鲁吉亚葡萄酒选购与品鉴：经典 PDO、年份和购买记录
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 tags: [georgia, wine, pdo, mukuzani, kindzmarauli, khvanchkara, buying-guide]
 type: knowledge
 ---
 
-# 格鲁吉亚葡萄酒：经典 PDO 酒名、酒标与两瓶购买组合
+# 格鲁吉亚葡萄酒选购与品鉴
 
 ## 一句话总结
 
@@ -42,9 +42,26 @@ type: knowledge
 | **希望红白各一瓶** | Mukuzani 干红 | Tvishi 半甜白 | 颜色、甜度、品种差异明显 |
 | **突出独特酿造文化** | Khvanchkara 半甜红 | Qvevri Rkatsiteli / Kisi 干型琥珀酒 | 地方半甜红 + 古老带皮发酵风格，后者可能不符合所有人口味 |
 
-> **这次讨论中的具体推荐记录（不是经现场核实的实时库存）**：曾以 *Chelti Mukuzani 2020* 和 *Chelti Kindzmarauli 2024* 举例。属于“稳妥对比组合”，不应仅凭酒名和年份推断酒庄品质，也不可将历史对话里的价格当成实时标价。
+> **选购方案变化**：最初讨论过 Mukuzani（干红）+ Kindzmarauli（半甜红），后来根据父亲要求调整成一瓶干白、一瓶干红。以下记录最终的酒庄与年份。
 
-### 4. 酒标识别（格鲁吉亚语）
+### 4. 2026 年 10 月两瓶实际购酒记录
+
+本次对话中，用户确认**两瓶已经购买**。价格来自购买前出示的**商家网页截图标价**，最终实际付款金额和成交门店未进一步核实。
+
+| 用途 | 酒庄 | 酒款 | 葡萄品种及类型 | 网站标价 | 容量 |
+|---|---|---|---|---:|---:|
+| 带给父亲的干白 | **Ikalto Winery** | **Tsinandali 2023** | Rkatsiteli + Mtsvane；干白 | **24 GEL** | 750 ml |
+| 带给父亲的干红 | **Chelti Winery** | **Mukuzani 2020** | Saperavi；干红 | **45 GEL** | 750 ml |
+| **网页标价合计** | | | | **69 GEL** | **1.5 L** |
+
+Wine Store Orbeliani 商品网页在讨论时分别显示俄语「В наличии」（网站有货）。这是当时网站库存状态，**不能据此推断其他实体店实时库存**。
+
+- [Ikalto Tsinandali 2023 商品页面](https://shop.winestoreorbeliani.ge/en/product/ikalto-winery-tsinandali-2023)
+- [Chelti Mukuzani 2020 商品页面](https://shop.winestoreorbeliani.ge/en/product/chelti-mukuzani-2020)
+
+**原始素材状态**：用户在聊天中提供过两款酒的商家截图，但这次重构没有将原图上传到 GitHub，**仅保留原商品链接和品名**，不能当作已备份截图。
+
+### 5. 酒标识别（格鲁吉亚语）
 
 | 格鲁吉亚文 | 中文 |
 |---|---|
@@ -61,7 +78,7 @@ type: knowledge
 
 阅读次序：**甜度 → 品种 → PDO/产区 → 生产商 → 年份/批次 → 工艺和保存状态**。如标签只写 Saperavi，它并不自动等于 Mukuzani，也不自动代表干型。
 
-### 5. 购酒前的质量判断
+### 6. 购酒前的质量判断
 
 - **酒名≠酒庄**：PDO 是产区受保护名称，Chelti、Marani 等是生产商/商业品牌层面的信息。
 - **看储存**：瓶体避高温与强光，留意漏液、瓶塞异常、明显氧化痕迹。
@@ -70,7 +87,15 @@ type: knowledge
 - **琥珀酒先小杯试饮**：可能有茶感、涩感，不一定像常见白葡萄酒那样清爽。
 - **携带出境/入境**：各国海关与航司规则可能变化；此文不记录未经实时核验的中国免税限量，应以出行当日官方要求为准。
 
-### 6. 如果只能记住三个选项
+### 7. 年份、陈年与侍酒温度
+
+- **普通清爽型干白**：年轻年份通常更能保留新鲜果香；但优质干白与部分 Qvevri 琥珀酒可以长期陈年，不能笼统断言“白葡萄酒不适合陈年”。
+- **Saperavi 干红**：酸度、单宁及酒体结构可能有利于陈年，Chelti Mukuzani 2020 在 2026 年约有六年酒龄；实际状态仍取决于酒庄质量与保存。
+- **Tsinandali**：若追求清爽、入门风格，购买 2023–2025 年份一般比未经核实的 2018 年普通干白更稳妥，但年份较老不等于一定变质。
+- **保存**：避光、尽量保持稳定且偏凉的环境，避免长期高温与剧烈温差。
+- **饮用**：干白可从约 **8–12°C** 开始尝试；较有酒体的干红约 **15–18°C**，适当根据个人口感调整。
+
+### 8. 如果只能记住三个选项
 
 - 干红：**Mukuzani**
 - 半甜红：**Kindzmarauli**（稳妥）或 **Khvanchkara**（多一种产区和葡萄）
@@ -78,7 +103,7 @@ type: knowledge
 
 ## 参考资料
 
-核验日期：2026-10-27。
+原始资料整理日期：2026-10-27；2026-10-28 重构并新增用户确认的购酒记录。
 
 - National Wine Agency, *Red Wine Grape Varieties*（Saperavi、Mukuzani、Kindzmarauli）：https://www.wine.gov.ge/En/VarietyRed
 - National Wine Agency, *Viticulture and Winemaking Regions*（Khvanchkara、Tvishi）：https://wine.gov.ge/En/WineMakingRegions
@@ -88,9 +113,7 @@ type: knowledge
 
 ## 相关知识
 
-- [葡萄酒总览：分类树](georgian-wine-overview.md)：酒款的颜色、甜度、产区、品种和工艺不可混淆。
-- [葡萄品种与产区](georgian-wine-regions-and-grapes.md)：对照 Khvanchkara / Kindzmarauli 背后的产区与原料差异。
-- [酿造方式与风格](georgian-wine-vinification-and-styles.md)：理解天然半甜、干型、陶罐与琥珀酒的酿造技术。
+- [格鲁吉亚葡萄酒：历史、分类、产区、葡萄与酿造](georgian-wine.md)：五轴分类、产区与品种以及 Qvevri 工艺集中于此，避免知识重复。
 
 ## 导航
 
