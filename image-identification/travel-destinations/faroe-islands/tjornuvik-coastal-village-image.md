@@ -9,6 +9,22 @@ status: uncertain
 
 # 法罗群岛海岸村落照片识别：Tjørnuvík（待确认）
 
+## 对照图片（在线展示）
+
+> **注意：以下是用于地理核对的真实参考照片，不是用户在对话中上传的那张原图。** 截至本次修订，原始附件已从当前会话取得，但尚未同步为仓库内的二进制图片文件。
+
+### Tjørnuvík 的真实村落与瀑布
+
+![Tjørnuvík 村庄实景：海湾、房屋、山坡及瀑布；对照图片，非本次用户原图](https://www.photohound.co/images/1015455m.jpg)
+
+来源：[PhotoHound — Tjørnuvík village](https://www.photohound.co/spot/tjornuvik-village-1003902)；摄影者：Jaka Ivančič（页面展示该摄影师的村落和瀑布作品；该具体图片的作者对应关系仍应以原站为准）。
+
+### 从 Tjørnuvík 看到的海蚀柱 Risin og Kellingin
+
+![Tjørnuvík 实景：Risin og Kellingin 海蚀柱及远处岩壁；对照图片，非本次用户原图](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tj%C3%B8rnuv%C3%ADk_2026_10.jpg/960px-Tj%C3%B8rnuv%C3%ADk_2026_10.jpg)
+
+摄影：Pasztilla（Attila Terbócs），2026-06-11；来源：[Wikimedia Commons：Tjørnuvík 2026 10.jpg](https://commons.wikimedia.org/wiki/File:Tj%C3%B8rnuv%C3%ADk_2026_10.jpg)，授权标注：CC BY-SA 4.0。**本图用于地理形态对照，不代表用户照片已找到原始来源。**
+
 ## 识别结论
 
 - **初步识别：** 法罗群岛（Faroe Islands）特约努维克村 **Tjørnuvík**，位于 **Streymoy（斯特莱默岛）北部**。
@@ -45,11 +61,13 @@ status: uncertain
 
 ## 图片和参考资料
 
-- **原图归档状态：待补录。** 该风景图曾由用户在 ChatGPT 中提供，但创建本笔记时未取得附件原文件。参照 [资料保全规范](../../../RULES.md#i-原始资料保全与溯源)，补录原文件后在这里添加相对路径。原始摄影者与出处仍待核实。
+- **原图归档状态：已取得原始聊天附件，GitHub 仓库仍待补录。** 2026-10-27 已在本次对话环境核实附件文件 `1000123437.jpg`，尺寸 **1152 × 1536 px**、JPEG、大小 **505,246 字节**。其 SHA-256 为 `d786911db5227123a8b39227c89af59fa1fd7b56b0bdd8139ce1ad1591875067`，可作为日后检查是否同一附件的依据。当前 GitHub 连接器虽可提交 Markdown 文本、创建文本或 base64 Blob，但**无法直接从本地附件文件路径读取原始二进制并交付至 GitHub 写入接口**，所以尚未把原始 JPEG 放进仓库；仍需以原文件补录，而不是以网上的相似照片冒充原图。原始摄影者与公开出处待核实。参见 [资料保全规范](../../../RULES.md#i-原始资料保全与溯源)。
 - [Guide to Faroe Islands — Tjørnuvík 介绍](https://guidetofaroeislands.fo/travel-faroe-islands/drive/tjoernuvik/)：地点、海蚀柱、黑沙滩、草皮屋顶建筑。
 - [Visit Runavík — Saksun–Tjørnuvík 徒步路线](https://visitrunavik.fo/en/whatson/hiking/hike/saksun-tjornuvik?lang=en&region=2)：徒步地理、海蚀柱和传统村落特征。
 - [PhotoHound — Tjørnuvík 实景照片与摄影地点](https://www.photohound.co/spot/tjornuvik-village-1003902)：用作村落外观、瀑布与观景位置对照。
 - **资料核对日期：** 2026-10-27。
+
+**对照图说明：** 上面的两张外部链接图片可在 GitHub / Obsidian 中作为视觉参考显示，但依赖原网站持续提供图片；**它们不是仓库内永久备份的图片，也不是用户原始附件**。
 
 ## 相关知识
 
