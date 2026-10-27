@@ -12,7 +12,7 @@ REQUIRED = {'title', 'created', 'updated', 'tags', 'type'}
 TYPES = {'knowledge', 'image-identification', 'travel', 'film-tv'}
 SLUG = re.compile(r'^[a-z0-9]+(?:-[a-z0-9]+)*$')
 DATE = re.compile(r'^\d{4}-\d{2}-\d{2}$')
-LINK = re.compile(r'(?<!!)\[[^\]\n]*\]\((?:<([^>]+)>|([^\)]+))\)')
+LINK = re.compile(r'!?\[[^\]\n]*\]\((?:<([^>]+)>|([^\)]+))\)')  # also validates local Markdown images
 errors = []
 
 def issue(path, detail):
@@ -120,8 +120,8 @@ def main():
         for err in errors:
             print(' -', err)
         return 1
-    print('PASS: Markdown links, navigation, metadata, required sections')
-    print('NOTE: CI cannot verify factual accuracy, duplicate meaning, or copyright.')
+    print('PASS: Markdown links and local images, navigation, metadata, required sections')
+    print('NOTE: CI cannot verify factual accuracy, duplicate meaning, or external image links.')
     return 0
 
 if __name__ == '__main__':
