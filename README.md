@@ -11,7 +11,7 @@
 | [数学](mathematics/README.md) | [数值分析](mathematics/numerical-analysis/README.md)、[微分方程](mathematics/differential-equations/README.md)、[线性代数](mathematics/linear-algebra/README.md) | 证明、公式、算法 |
 | [计算机科学](computer-science/README.md) | [数据存储](computer-science/data-storage/README.md) | 算法、AI、操作系统、数据存储与备份 |
 | [工程技术](engineering/README.md) | [电子工程](engineering/electronics/README.md)、[机械工程](engineering/mechanical/README.md)、[材料工程](engineering/materials/README.md) | PCB、电路、机械、材料 |
-| [物理](physics/README.md) | 按需建立 | 概念、理论、实验 |
+| [物理](physics/README.md) | [光学](physics/optics/README.md) | 光学、成像、视觉光学及其他物理理论与实验 |
 | [语言](languages/README.md) | 按需建立 | 俄语、土耳其语等 |
 | [音乐](music/README.md) | [乐器](music/instruments/README.md)、[音乐作品](music/works/README.md) | 吉他、Bağlama 等 |
 | [影视](film-and-tv/README.md) | [电影](film-and-tv/movies/README.md)、[电视剧](film-and-tv/television/README.md)、[动画](film-and-tv/animation/README.md) | 作品、鉴赏、解析 |
@@ -19,7 +19,7 @@
 | [图片识别](image-identification/README.md) | [旅游目的地](image-identification/travel-destinations/README.md)、[产品](image-identification/products/README.md)、[食物](image-identification/food/README.md) | 图片识别结果独立归档 |
 | [旅行](travel/README.md) | 按需建立 | 国家、城市、攻略 |
 | [历史文化](history-and-culture/README.md) | [饮食文化](history-and-culture/cuisine/README.md)、[科学技术史](history-and-culture/history-of-science/README.md)、[人物](history-and-culture/people/README.md)、[文化传统](history-and-culture/traditions/README.md)、[政治制度](history-and-culture/political-institutions/README.md) | 历史、政治制度、诗人、科技史与各地文化 |
-| [生活](life/README.md) | [服装](life/clothing/README.md)、[人生反思](life/reflection/README.md) | 实用知识、服装、行动选择与人生反思 |
+| [生活](life/README.md) | [服装](life/clothing/README.md)、[人生反思](life/reflection/README.md)、[动物照护](life/animal-care/README.md) | 实用知识、服装、动物照护、行动选择与人生反思 |
 
 ## ✍️ 归档工作流
 
