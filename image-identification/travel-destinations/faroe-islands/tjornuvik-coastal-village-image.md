@@ -45,7 +45,7 @@ status: uncertain
 
 ## 图片和参考资料
 
-- **原图归档状态：待补录。** 该风景图片确由用户在 ChatGPT 对话中提供，但创建本笔记时未保留原始附件文件；这不是「作者未知就禁止私人存档」的理由。根据现行 [知识库规则 §I](../../../..//RULES.md#i-用户提供原始素材的保留与溯源)，如果可以重新取得用户原始上传的图片文件，应将其纳入私人仓库并在此处链接。原始作者与公开来源仍**待核实**。
+- **原图归档状态：待补录。** 该风景图片确由用户在 ChatGPT 对话中提供，但创建本笔记时未保留原始附件文件；这不是「作者未知就禁止私人存档」的理由。根据现行 [知识库规则 §I](../../../RULES.md#i-用户提供原始素材的保留与溯源)，如果可以重新取得用户原始上传的图片文件，应将其纳入私人仓库并在此处链接。原始作者与公开来源仍**待核实**。
 - [Guide to Faroe Islands — Tjørnuvík 介绍](https://guidetofaroeislands.fo/travel-faroe-islands/drive/tjoernuvik/)：地点、海蚀柱、黑沙滩、草皮屋顶建筑。
 - [Visit Runavík — Saksun–Tjørnuvík 徒步路线](https://visitrunavik.fo/en/whatson/hiking/hike/saksun-tjornuvik?lang=en&region=2)：徒步地理、海蚀柱和传统村落特征。
 - [PhotoHound — Tjørnuvík 实景照片与摄影地点](https://www.photohound.co/spot/tjornuvik-village-1003902)：用作村落外观、瀑布与观景位置对照。
