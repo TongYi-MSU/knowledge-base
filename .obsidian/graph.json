@@ -8,10 +8,87 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:mathematics/",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:computer-science/",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:engineering",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:physics/",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:languages/",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:music/",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:film-and-tv/",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:photography/",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:image-identification/food  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:travel/",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:history-and-culture/",
+      "color": {
+        "a": 1,
+        "rgb": 8208928
+      }
+    },
+    {
+      "query": "path:life/",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -19,12 +96,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.75751495273008,
   "collapse-forces": false,
-  "centerStrength": 0.248003087015242,
-  "repelStrength": 10.055916454239,
-  "linkStrength": 0.603704418290565,
-  "linkDistance": 413,
-  "scale": 1.1957487772617192,
+  "centerStrength": 0.455836388192167,
+  "repelStrength": 9.76893347586547,
+  "linkStrength": 1,
+  "linkDistance": 199,
+  "scale": 1.38195356372571,
   "close": true
 }
