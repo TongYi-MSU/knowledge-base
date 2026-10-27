@@ -1,7 +1,14 @@
 # 音乐
 
-当前位置：`music/`。此目录按需动态增加细分类和笔记；每次归档应更新导航。
+当前位置：`music/`。以下类别可继续按需动态扩展。
 
-## 已归档笔记
+## 分类导航
 
-暂无正式知识笔记。未来新增后，在这里列出相关链接。
+- [乐器](instruments/README.md)：结构、学习与保养。
+- [作品](works/README.md)：歌曲、民谣与诗歌作品。
+
+## 跨学科入口
+
+- [Âşıklık 吟游诗人传统](../history-and-culture/traditions/asiklik.md)
+- [Âşık Veysel](../history-and-culture/people/asik-veysel.md)
+- [Şentürk İyidoğan](../history-and-culture/people/senturk-iyidogan.md)

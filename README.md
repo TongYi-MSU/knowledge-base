@@ -13,11 +13,11 @@
 | [工程技术](engineering/README.md) | [电子工程](engineering/electronics/README.md)、[机械工程](engineering/mechanical/README.md)、[材料工程](engineering/materials/README.md) | PCB、电路、机械、材料 |
 | [物理](physics/README.md) | 按需建立 | 概念、理论、实验 |
 | [语言](languages/README.md) | 按需建立 | 俄语、土耳其语等 |
-| [音乐](music/README.md) | 按需建立 | 吉他、Bağlama 等 |
+| [音乐](music/README.md) | [乐器](music/instruments/README.md)、[音乐作品](music/works/README.md) | 吉他、Bağlama 等 |
 | [影视](film-and-tv/README.md) | [电影](film-and-tv/movies/README.md)、[电视剧](film-and-tv/television/README.md)、[动画](film-and-tv/animation/README.md) | 作品、鉴赏、解析 |
 | [图片识别](image-identification/README.md) | [旅游目的地](image-identification/travel-destinations/README.md)、[产品](image-identification/products/README.md)、[食物](image-identification/food/README.md) | 图片识别结果独立归档 |
 | [旅行](travel/README.md) | 按需建立 | 国家、城市、攻略 |
-| [历史文化](history-and-culture/README.md) | [饮食文化](history-and-culture/cuisine/README.md)、[科学技术史](history-and-culture/history-of-science/README.md) | 历史、科技史、文化及各地饮食传统 |
+| [历史文化](history-and-culture/README.md) | [饮食文化](history-and-culture/cuisine/README.md)、[科学技术史](history-and-culture/history-of-science/README.md)、[人物](history-and-culture/people/README.md)、[文化传统](history-and-culture/traditions/README.md) | 历史、诗人、科技史与各地文化 |
 | [生活](life/README.md) | 按需建立 | 实用知识 |
 
 ## ✍️ 归档工作流
