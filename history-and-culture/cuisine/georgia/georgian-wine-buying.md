@@ -22,14 +22,14 @@ type: knowledge
 
 ### 2. 最值得认出的六种酒
 
-| 酒名 | 色泽与甜度 | 主要葡萄 | 产区 | 风格理解 |
-|---|---|---|---|---|
-| **Mukuzani** | **干红** | **Saperavi** | Kakheti（卡赫季） | 深色、较有酒体和单宁，经典干红代表 |
-| **Kindzmarauli** | **天然半甜红** | **Saperavi** | Kakheti（卡赫季） | 黑莓/樱桃类果香，甜酸平衡 |
-| **Khvanchkara** | **天然半甜红** | **Aleksandrouli + Mujuretuli** | Racha（拉恰） | 红色水果风格、较柔和，产地差异明显 |
-| **Akhasheni** | **天然半甜红** | **Saperavi** | Kakheti（卡赫季） | 另一种经典 Saperavi 半甜产地酒 |
-| **Tsinandali** | **干白** | **Rkatsiteli + Kakhuri Mtsvane**（按产区规范） | Kakheti（卡赫季） | 清爽或有一定复杂度的经典白酒 |
-| **Tvishi** | **典型天然半甜白** | **Tsolikouri** | Lechkhumi（列其胡米） | 水果香与甜酸平衡；具体产品以标签为准 |
+| 酒名               | 色泽与甜度       | 主要葡萄                                    | 产区              | 风格理解                 |
+| ---------------- | ----------- | --------------------------------------- | --------------- | -------------------- |
+| **Mukuzani**     | **干红**      | **Saperavi**                            | Kakheti（卡赫季）    | 深色、较有酒体和单宁，经典干红代表    |
+| **Kindzmarauli** | **天然半甜红**   | **Saperavi**                            | Kakheti（卡赫季）    | 黑莓/樱桃类果香，甜酸平衡        |
+| **Khvanchkara**  | **天然半甜红**   | **Aleksandrouli + Mujuretuli**          | Racha（拉恰）       | 红色水果风格、较柔和，产地差异明显    |
+| **Akhasheni**    | **天然半甜红**   | **Saperavi**                            | Kakheti（卡赫季）    | 另一种经典 Saperavi 半甜产地酒 |
+| **Tsinandali**   | **干白**      | **Rkatsiteli + Kakhuri Mtsvane**（按产区规范） | Kakheti（卡赫季）    | 清爽或有一定复杂度的经典白酒       |
+| **Tvishi**       | **典型天然半甜白** | **Tsolikouri**                          | Lechkhumi（列其胡米） | 水果香与甜酸平衡；具体产品以标签为准   |
 
 **重要对比**：Mukuzani 与 Kindzmarauli **葡萄相同（Saperavi）**，酒的甜度与 PDO 不同；Kindzmarauli 与 Khvanchkara **甜度类别相同，但产区、葡萄不同**。因此“稳妥”与“更有地域代表性”是在比较选购目的，**不等于一款绝对比另一款高档**。
 

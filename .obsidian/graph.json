@@ -8,93 +8,23 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:mathematics/",
+      "query": "",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
-    },
-    {
-      "query": "path:computer-science/",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:engineering/ 橙色 #F5A451",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:physics/",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:languages/",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:music/",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:film-and-tv/",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:image-identification/",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "path:travel/",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "path:history-and-culture/",
-      "color": {
-        "a": 1,
-        "rgb": 8207163
-      }
-    },
-    {
-      "query": "path:life/",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.34396343102985,
-  "lineSizeMultiplier": 5,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.366918910613452,
-  "repelStrength": 10.3384166250528,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.3359024919084088,
+  "centerStrength": 0.248003087015242,
+  "repelStrength": 10.055916454239,
+  "linkStrength": 0.603704418290565,
+  "linkDistance": 413,
+  "scale": 1.1957487772617192,
   "close": true
 }
