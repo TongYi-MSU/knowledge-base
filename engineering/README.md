@@ -10,4 +10,5 @@
 
 ## 已归档笔记
 
+- [Toyota Land Cruiser 70 系列：车型、LC78 悬挂轮胎与远征改装路线](mechanical/land-cruiser-70-expedition-platform.md)
 - [120°C食品接触场景的3D打印材料与马克杯制造方案](materials/food-contact-high-temperature-3d-printing.md)

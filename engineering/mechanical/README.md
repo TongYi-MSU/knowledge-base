@@ -4,4 +4,4 @@
 
 ## 已归档笔记
 
-暂无正式知识笔记。未来新增后，在这里列出相关链接。
+- [Toyota Land Cruiser 70 系列：车型、LC78 悬挂轮胎与远征改装路线](land-cruiser-70-expedition-platform.md)
