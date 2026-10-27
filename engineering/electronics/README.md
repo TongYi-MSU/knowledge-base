@@ -6,3 +6,4 @@
 
 - [EL 与 TFEL 电致发光显示：原理、寿命与 HP 37900D 案例](electroluminescent-displays-tfel-hp-37900d.md)
 - [BodyBus：以服装为载体的个人计算基础设施](bodybus-wearable-computing-platform.md)
+- [自动备份型移动 SSD 与摄影充电宝一体化产品构想](automatic-camera-card-backup-ssd-power-bank.md)

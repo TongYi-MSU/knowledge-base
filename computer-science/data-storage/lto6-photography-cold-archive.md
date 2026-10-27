@@ -188,3 +188,4 @@ IBM 对 LTO 数据磁带给出的推荐长期存储环境为：
 
 - [HDR 后期：动态范围与视觉层级](../../photography/post-processing/hdr-tone-mapping-and-visual-hierarchy.md)：照片的拍摄及后期阶段，与这里讨论的 Lightroom 素材保存和 LTO 长期归档形成前后工作流关联。
 - 后续若建立 NAS、RAID、3-2-1 备份、校验哈希或摄影数字资产管理专题，可在确认关联后互链。
+- [自动备份型移动 SSD 与摄影充电宝一体化产品构想](../../engineering/electronics/automatic-camera-card-backup-ssd-power-bank.md)：拍摄现场初级SSD备份与LTO长期冷归档是互补环节。
