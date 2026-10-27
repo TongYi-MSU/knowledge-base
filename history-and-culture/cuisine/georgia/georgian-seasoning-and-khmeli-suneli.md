@@ -149,3 +149,4 @@ Georgia Travel 在介绍伊梅列季核桃茄子时明确提醒，Khmeli Suneli 
 ## 相关知识
 
 - [格鲁吉亚饮食文化索引](README.md)
+- [土耳其菜的味觉对冲与风味融合](../turkey/flavor-contrast-vs-integration.md)：讨论两种饮食体验中风味对比与整合的感官分析框架，不把这种比较推广成全菜系结论。

@@ -82,3 +82,4 @@ type: knowledge
 
 - [土耳其饮食文化目录](README.md)
 - [Kıymalı Poğaça（土耳其肉末馅软面包）](kiymali-pogaca.md)：同分类下的土耳其具体食品笔记。
+- [格鲁吉亚调味体系与 Khmeli Suneli](../georgia/georgian-seasoning-and-khmeli-suneli.md)：对比香草、坚果、酸味与脂肪的层次组织方式；两个笔记讨论的观察角度并不等于两国菜系整体优劣。

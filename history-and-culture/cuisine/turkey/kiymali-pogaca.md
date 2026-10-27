@@ -48,3 +48,4 @@ type: knowledge
 ## 相关知识
 
 - [土耳其饮食文化目录](README.md)
+- [土耳其菜的味觉对冲与风味融合](flavor-contrast-vs-integration.md)：从肉馅面点这一具体食物延伸到食物中油脂、配菜与风味组织的比较框架，不能据此断言本面点必然依赖某种解腻方式。

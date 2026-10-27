@@ -63,3 +63,5 @@ type: knowledge
 ## 相关知识
 
 [Âşık Veysel](asik-veysel.md) · [Âşıklık](../traditions/asiklik.md) · [Bağlama 选购与保养](../../music/instruments/baglama.md)
+
+- [Pala Çan 手工牲畜铃作坊](../traditions/pala-can-imalati.md)：与制琴工坊同属活态传统手工业，可比较匠人传承与器物的文化用途，而不是认为具体制作工艺相同。
