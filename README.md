@@ -10,7 +10,7 @@
 |---|---|---|
 | [数学](mathematics/README.md) | [数值分析](mathematics/numerical-analysis/README.md)、[微分方程](mathematics/differential-equations/README.md)、[线性代数](mathematics/linear-algebra/README.md) | 证明、公式、算法 |
 | [计算机科学](computer-science/README.md) | 按需建立 | 算法、AI、操作系统 |
-| [工程技术](engineering/README.md) | [电子工程](engineering/electronics/README.md)、[机械工程](engineering/mechanical/README.md) | PCB、电路、机械、材料 |
+| [工程技术](engineering/README.md) | [电子工程](engineering/electronics/README.md)、[机械工程](engineering/mechanical/README.md)、[材料工程](engineering/materials/README.md) | PCB、电路、机械、材料 |
 | [物理](physics/README.md) | 按需建立 | 概念、理论、实验 |
 | [语言](languages/README.md) | 按需建立 | 俄语、土耳其语等 |
 | [音乐](music/README.md) | 按需建立 | 吉他、Bağlama 等 |

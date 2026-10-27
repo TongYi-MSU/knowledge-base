@@ -6,7 +6,8 @@
 
 - [电子工程](electronics/README.md)
 - [机械工程](mechanical/README.md)
+- [材料工程](materials/README.md)
 
 ## 已归档笔记
 
-暂无正式知识笔记。未来新增后，在这里列出相关链接。
+- [120°C食品接触场景的3D打印材料与马克杯制造方案](materials/food-contact-high-temperature-3d-printing.md)
