@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Wasp"
+  "cssTheme": "Wasp",
+  "showViewHeader": true,
+  "floatingNavigation": true,
+  "showRibbon": true
 }
