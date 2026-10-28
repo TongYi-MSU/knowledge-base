@@ -5,3 +5,4 @@
 ## 已归档笔记
 
 - [前进、逃避、后退与停下：如何判断自己正在经历什么](movement-rest-and-meaning.md)：从《白日梦想家》与《Stay Alive》的讨论延伸出的行动、疲劳、逃避、恢复与整合框架。
+- [认知的牢笼：行动坚定与认知可修正性](cognitive-flexibility-and-self-narrative.md)：对心理学解释、自我叙事与认知可修正性的反思。
