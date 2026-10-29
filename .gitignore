@@ -9,3 +9,5 @@ __pycache__/
 !.env.example
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+# Obsidian deleted-note recycle bin; never sync to Git
+.trash/

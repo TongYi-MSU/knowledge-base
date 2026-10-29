@@ -99,7 +99,7 @@ def check_note(path, content):
 def main():
     for path in sorted(ROOT.rglob('*')):
         rel = path.relative_to(ROOT)
-        if any(part in {'.git', '.obsidian', '__pycache__'} for part in rel.parts):
+        if any(part in {'.git', '.obsidian', '.trash', '__pycache__'} for part in rel.parts):
             continue
         if rel.parts[0] not in RESERVED and path.is_dir():
             if len(rel.parts) > 3:
